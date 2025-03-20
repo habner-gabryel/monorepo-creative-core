@@ -1894,6 +1894,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1208552451058314098, guid: d1c2ae7d3dba08a61bbf82da1ae8963b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -1128685162949057103, guid: d1c2ae7d3dba08a61bbf82da1ae8963b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d1c2ae7d3dba08a61bbf82da1ae8963b, type: 3}
       propertyPath: m_Name
       value: Apple_BrokenLightmapUVs
